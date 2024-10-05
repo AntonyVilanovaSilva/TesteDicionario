@@ -1,0 +1,14 @@
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\bin\Debug\net6.0\TesteDicionario.exe
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\bin\Debug\net6.0\TesteDicionario.deps.json
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\bin\Debug\net6.0\TesteDicionario.runtimeconfig.json
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\bin\Debug\net6.0\TesteDicionario.dll
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\bin\Debug\net6.0\TesteDicionario.pdb
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\obj\Debug\net6.0\TesteDicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\obj\Debug\net6.0\TesteDicionario.AssemblyInfoInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\obj\Debug\net6.0\TesteDicionario.AssemblyInfo.cs
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\obj\Debug\net6.0\TesteDicionario.csproj.CoreCompileInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\obj\Debug\net6.0\TesteDicionario.dll
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\obj\Debug\net6.0\refint\TesteDicionario.dll
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\obj\Debug\net6.0\TesteDicionario.pdb
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\obj\Debug\net6.0\TesteDicionario.genruntimeconfig.cache
+C:\Users\manha.cetafest\Documents\GitHub\TesteDicionario\TesteDicionario\TesteDicionario\obj\Debug\net6.0\ref\TesteDicionario.dll
